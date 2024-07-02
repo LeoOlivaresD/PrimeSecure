@@ -19,7 +19,9 @@ public class PrimeSecure {
         PrimesList primesList = new PrimesList();
         Scanner sc = new Scanner(System.in);
         int registros = 0;
-        System.out.println("Cuantos registros desea?");
+        System.out.println("Bienvenido al sistema de mensajeria de Prime Secure");
+        System.out.println("De momento esto solo es una alfa y se esta comprobando el metodo de encriptacion de mensajeria");
+        System.out.println("Para iniciar, cuantos registros desea ingresar?");
         registros = sc.nextInt();
 
         for (int i = 0; i < registros; i++) {
