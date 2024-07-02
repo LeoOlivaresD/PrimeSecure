@@ -1,4 +1,4 @@
-package primesecure.entites;
+package com.duoc.primesecure.entites;
 import java.util.ArrayList;
 import java.util.Collection;
 

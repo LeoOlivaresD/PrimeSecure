@@ -1,7 +1,7 @@
 package com.duoc.primesecure;
 
 import java.util.Scanner;
-import primesecure.entites.PrimesList;
+import com.duoc.primesecure.entites.PrimesList;
 
 public class PrimeSecure {
 /*  Que tal profesor, espero se encuentre muy bien, le comento un poco sobre el proyecto

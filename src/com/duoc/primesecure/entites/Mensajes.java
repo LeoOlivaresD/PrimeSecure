@@ -1,4 +1,4 @@
-package primesecure.entites;
+package com.duoc.primesecure.entites;
 public class Mensajes {
     private Integer idMensaje;
     private Integer idUsuario;
